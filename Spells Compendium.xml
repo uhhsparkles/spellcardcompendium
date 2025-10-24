@@ -7218,7 +7218,7 @@
 		<duration>1 hr</duration>
 		<classes>Bard Cleric Sorcerer Warlock Wizard</classes>
 		<text>You usurp the negative energy animating an Undead creature that you can see within range, attempting to take control of it. The target must make a Charisma saving throw. On a failed save, for the duration, the target has the Charmed condition (ignoring any Immunity to that condition), and it is Friendly toward you. On a successful save, the target has Disadvantage on the next attack roll it makes against you before the start of your next turn. If you or any of your allies damage the target or force it to make a saving throw, the spell ends.</text>
-		</hltext>You can target one additional creature for each spell slot level above 1.</hltext>
+		<hltext>You can target one additional creature for each spell slot level above 1.</hltext>
 	</spell>
 	<spell>
 		<name>Chain of Conviction</name>
@@ -7371,7 +7371,7 @@
 		<duration>0</duration>
 		<classes>Wizard</classes>
 		<text>You touch a creature or nonmagical object and break the target's substance down into its most fundamental components. Make a melee spell attack. On a hit, the target takes 1d8 Force damage, and its AC is reduced by 1 against the next attack roll made against it before the end of your next turn.</text>
-		</hltext>The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</hltext>
+		<hltext>The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</hltext>
 	</spell>
 
 	<spell>
